@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e86b0d13867e7084ca09f0dee2f3e9aa
+timeCreated: 1537196918
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DiagramLine: {fileID: 1103485811837170, guid: 88738958d17395246807330b3abb30f5,
+      type: 2}
+  - Point: {instanceID: 0}
+  - TrainFrag: {instanceID: 0}
+  - TrainLine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
